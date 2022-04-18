@@ -1,0 +1,19 @@
+[
+    {
+        "ID":1,
+        "Nome":"Dog Power",
+        "End": "Rua Guarani"
+    },
+
+    {
+        "ID":2,
+        "Nome":"Pet Life",
+        "End":"Rua da Bahia"
+    },
+
+    {
+        "ID":3,
+        "Nome":"Dog mal",
+        "End":"Rua dos Atleticanos"
+    }
+]

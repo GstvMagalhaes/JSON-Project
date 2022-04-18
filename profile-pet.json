@@ -1,0 +1,18 @@
+[
+{
+    "IDpet":45,
+    "nome": "Freya",
+    "idade": "3 months",
+    "raça": "Labrador",
+    "dataNasc": "05/03/2022"
+},
+
+{
+    "IDpet":45,
+    "nome":"Rex",
+    "idade":"6 months",
+    "raça":"Pastor Alemão",
+    "dataNasc":"02/12/2022"
+}
+
+]
